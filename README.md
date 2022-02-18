@@ -3,6 +3,10 @@ ResNET-50 based 1st approach
 
 Original Datasource:
 
+Our REID dataset link: https://drive.google.com/file/d/1xDZ_84F7Cma-4_xFhPk7V0CVgliMA8qB/view
+## Steps to run code in colab:
+Step 1: 
+Step 2:
 ## References
 <a id="1">[1]</a> 
 Poursaeed, Omid and Matera, Tom and Belongie, Serge (2018). 
