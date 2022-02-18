@@ -10,7 +10,6 @@ Step 1: asc
 Step 2: 
 ## References
 <a id="1">[1]</a> 
-Poursaeed, Omid and Matera, Tom and Belongie, Serge (2018). 
+Poursaeed, Omid and Matera, Tom and Belongie, Serge [2018](http://dx.doi.org/10.1007/s00138-018-0922-2). 
 Vision-based real estate price estimation. 
 Machine Vision and Applications, 29(4), 667-676.
-http://dx.doi.org/10.1007/s00138-018-0922-2
