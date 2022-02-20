@@ -1,7 +1,10 @@
 # Real-Estate-Image-Tagging-1
 ResNET-50 based 1st approach
 
-Original Datasource: [1]
+Original Datasource: <a id="1">[1]</a> 
+
+## Copyright
+Permission is hereby granted, without written agreement and without license or royalty fees, to use, copy, modify, and distribute the data provided and its documentation for research purpose only. The data provided may not be commercially distributed
 
 Our REID dataset link: https://drive.google.com/file/d/1xDZ_84F7Cma-4_xFhPk7V0CVgliMA8qB/view
 ## References
