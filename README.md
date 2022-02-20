@@ -2,7 +2,7 @@
 ResNET-50 based 1st approach
 
 Original Datasource: <a id="1">[1]</a> 
-
+This dataset contain photos of different types of rooms of 9000 houses collected from Zillow for associate with meta-data from some real estate website for the regression task of estimate value of the houses
 Our REID dataset link: https://drive.google.com/file/d/1xDZ_84F7Cma-4_xFhPk7V0CVgliMA8qB/view
 
 ## Copyright
